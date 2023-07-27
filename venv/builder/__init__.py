@@ -20,7 +20,8 @@ def runBuilder(modID: str):
     createDir(f"./output/textures/block/material")
 
     createDir(f"./output/blockstates")
-    createDir(f"./output/blockstates/material")
+    createDir(f"./output/blockstates/block")
+    createDir(f"./output/blockstates/block/material")
 
     materials = Materials.getAllMaterials()
     parts = Parts.getAllParts()

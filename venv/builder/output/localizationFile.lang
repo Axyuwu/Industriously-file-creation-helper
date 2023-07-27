@@ -11,3 +11,9 @@ item.industriously.gear_copper.name=Copper Gear
 item.industriously.gear_silver.name=Silver Gear
 item.industriously.gear_titanium.name=Titanium Gear
 item.industriously.gear_tungsten.name=Tungsten Gear
+#   block
+tile.industriously.block_aluminium.name=Aluminium Block
+tile.industriously.block_copper.name=Copper Block
+tile.industriously.block_silver.name=Silver Block
+tile.industriously.block_titanium.name=Titanium Block
+tile.industriously.block_tungsten.name=Tungsten Block

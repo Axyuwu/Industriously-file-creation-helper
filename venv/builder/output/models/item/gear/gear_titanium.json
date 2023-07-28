@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "industriously:item/gear/gear_titanium"
-    }
-}

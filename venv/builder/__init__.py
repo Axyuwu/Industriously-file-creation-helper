@@ -11,6 +11,8 @@ def createDir(path: str):
         os.mkdir(path)
 
 def runBuilder(modID: str):
+    createDir(f"./output")
+
     createDir(f"./output/models")
     createDir(f"./output/models/item")
 
